@@ -1,3 +1,5 @@
+package challenges;
+
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
@@ -43,8 +45,8 @@ class MagicDictionary {
 }
 
 /**
- * Your MagicDictionary object will be instantiated and called as such:
- * MagicDictionary obj = new MagicDictionary();
+ * Your challenges.MagicDictionary object will be instantiated and called as such:
+ * challenges.MagicDictionary obj = new challenges.MagicDictionary();
  * obj.buildDict(dict);
  * boolean param_2 = obj.search(word);
  */
